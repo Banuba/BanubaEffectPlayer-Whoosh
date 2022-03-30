@@ -1,0 +1,12 @@
+0.38.2 cml/coreMLFRXPrior.mlmodelc
+0.38.2 cml/coreMLFRXPrior.mlmodelc
+0.38.2 flow/landmarks_224.tflite
+0.38.2 cml/coreMLSSD_offline.mlmodelc
+0.38.2 cml/coreMLSSD_online.mlmodelc
+0.38.2 flow/landmarks_128.tflite
+0.38.2 flow/landmarks_96.tflite
+0.38.2 cml/coreMLBG2.mlmodelc
+0.38.2 cml/coreMLBG2Landscape.mlmodelc
+1.0.0 other_assets
+--------
+1.342.18
